@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HTML_Update_Checker", "HTML_Update_Checker.vbproj", "{403E602D-A932-4D14-AFE4-D25D93AFF793}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{403E602D-A932-4D14-AFE4-D25D93AFF793}.Debug.ActiveCfg = Debug|.NET
+		{403E602D-A932-4D14-AFE4-D25D93AFF793}.Debug.Build.0 = Debug|.NET
+		{403E602D-A932-4D14-AFE4-D25D93AFF793}.Release.ActiveCfg = Release|.NET
+		{403E602D-A932-4D14-AFE4-D25D93AFF793}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
